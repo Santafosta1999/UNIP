@@ -1,0 +1,26 @@
+https://docs.npmjs.com/about-npm/ - NPM
+
+https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Overview - HTTP
+
+https://canaltech.com.br/software/o-que-e-api/ - API
+
+https://rockcontent.com/br/blog/rest-api/ - REST
+
+https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm - REST
+
+https://restfulapi.net/ - REST
+
+https://nodejs.org/en/about/ - Sobre o Node.js
+
+Learning Node.js A Hands-on Guide to Building - Sobre o Node.js
+
+https://levelup.gitconnected.com/polling-in-javascript-ab2d6378705a - Sobre Long Polling
+
+https://javascript.info/long-polling - Sobre Long Polling
+
+https://coursework.vschool.io/asynchronicity/ - Assincronicidade
+
+https://imasters.com.br/front-end/node-js-o-que-e-esse-event-loop-afinal - Event Loop
+
+https://nodejs.org/en/knowledge/getting-started/npm/what-is-npm/ - NPM
+
